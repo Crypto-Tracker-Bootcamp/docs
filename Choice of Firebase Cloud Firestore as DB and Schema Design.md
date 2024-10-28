@@ -14,12 +14,6 @@ We have two main collections: **Users** and **Portfolios**. The **Users** collec
 
 ---
 
-### **Database Schema Summary for Firebase Cloud Firestore:**
-
-Your Firebase Firestore database consists of two main collections: **Users** and **Portfolios**. Here's a breakdown of the schema:
-
----
-
 ### **1. Users Collection**
 
 The `Users` collection stores user-specific data, primarily managing the user's profile and preferences. The document ID for each user corresponds to their Firebase Authentication UID.
